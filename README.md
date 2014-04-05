@@ -14,4 +14,4 @@ parseFileSize(3003, true);
 ```
 
 ## License
-[MIT](http://opensource.org/licenses/MIT) © [Sindre Sorhus](http://sindresorhus.com)
+[MIT](http://opensource.org/licenses/MIT) © [Jarvys](http://jarvys.github.io)
