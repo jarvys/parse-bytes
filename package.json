@@ -1,0 +1,20 @@
+{
+  "name": "parse-file-size",
+  "version": "0.0.1",
+  "description": "Parse file size into an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+	"browser",
+    "parser",
+    "file size"
+  ],
+  "author": {
+	"name": "Jarvys",
+	"email": "yuhan534@126.com",
+	"url": "jarvys.github.io"
+  },
+  "license": "MIT"
+}
