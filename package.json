@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Parse file size into an object",
   "main": "index.js",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/jarvys/parse-file-size.git"
+  },
   "scripts": {
     "test": "mocha"
   },
