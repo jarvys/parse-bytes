@@ -1,15 +1,15 @@
-#parse-file-size
+#parse-bites
 > Parse file size into an object, inspired by [parse-ms](https://github.com/sindresorhus/parse-ms)
 
 ##install
 ```bash
-$ npm install parse-file-size --save
+$ npm install parse-bites --save
 ```
 
 ##Usage
 ```js
-var parseFileSize = require("parse-file-size");
-parseFileSize(3003, true);
+var parseBites = require("parse-bites");
+parseBites(3003, true);
 //=> { b: 3, kb: 3, mb: 0, gb: 0, tb: 0, pb: 0 }
 ```
 

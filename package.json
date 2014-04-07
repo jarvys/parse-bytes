@@ -1,11 +1,11 @@
 {
-  "name": "parse-file-size",
+  "name": "parse-bites",
   "version": "0.0.1",
   "description": "Parse file size into an object",
   "main": "index.js",
   "repository": {
       "type": "git",
-      "url": "https://github.com/jarvys/parse-file-size.git"
+      "url": "https://github.com/jarvys/parse-bites.git"
   },
   "scripts": {
     "test": "mocha"
@@ -13,7 +13,8 @@
   "keywords": [
 	"browser",
     "parser",
-    "file size"
+    "file size",
+    "bites"
   ],
   "author": {
 	"name": "Jarvys",
