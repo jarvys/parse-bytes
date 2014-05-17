@@ -14,4 +14,4 @@ parseBytes(3003, true);
 ```
 
 ## License
-[MIT](http://opensource.org/licenses/MIT) © [Jarvys](http://jarvys.github.io)
+[MIT](http://opensource.org/licenses/MIT) © [Jarvys](http://jarvys.me)
