@@ -1,7 +1,7 @@
 #parse-bytes
 > Parse file size into an object, inspired by [parse-ms](https://github.com/sindresorhus/parse-ms)
 
-##install
+##Install
 ```bash
 $ npm install parse-bytes --save
 ```
