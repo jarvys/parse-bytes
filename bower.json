@@ -1,0 +1,17 @@
+{
+  "name": "parse-bytes",
+  "main": "bundle.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jarvys/parse-bytes",
+  "authors": [
+    "Jarvys <yuhan534@126.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
